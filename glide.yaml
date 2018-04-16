@@ -1,0 +1,4 @@
+package: github.com/taion809/xxhash-cli
+import:
+- package: github.com/cespare/xxhash
+  version: ^1.0.0

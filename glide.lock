@@ -1,0 +1,6 @@
+hash: 864ea4f889d33d681ae564697e3f223dd768e3b4cdf722c08b3316d828cfeb38
+updated: 2018-04-16T09:10:38.869871419-04:00
+imports:
+- name: github.com/cespare/xxhash
+  version: 5c37fe3735342a2e0d01c87a907579987c8936cc
+testImports: []
